@@ -1,2 +1,2 @@
 # undergraduate-projects
-A collection of some projects I worked on during my undergrad at the University of Mumbai
+A collection of some bits of code I used in my undergraduate projects at the University of Mumbai
