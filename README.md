@@ -1,2 +1,2 @@
 # undergraduate-projects
-Bits of code I used in my undergraduate mathematics and physics projects.
+Differential Calculus, Integral Calculus, Thermodynamics, Mechanics, Biological Systems
